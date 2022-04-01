@@ -15,4 +15,5 @@ https://user-images.githubusercontent.com/96500281/161189214-fb2e755a-740d-459a-
 ### Future Plans
 
 Adding function to change sorting speed.
+
 Adding function to change array length (number of bars).
